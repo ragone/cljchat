@@ -2,7 +2,7 @@
 
 A [re-frame](https://github.com/day8/re-frame) chat application.
 
-[[file:example.gif]]
+![Example](example.gif "Example")
 
 ## Getting Started
 
