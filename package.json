@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "element-resize-detector": "^1.2.1",
-    "highlight.js": "9.15.10",
+    "highlight.js": "10.4.1",
     "luxon": "^1.22.0",
     "quill-mention": "^2.2.4",
     "react": "16.9.0",
