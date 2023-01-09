@@ -9,7 +9,7 @@
   "dependencies": {
     "element-resize-detector": "^1.2.1",
     "highlight.js": "9.15.10",
-    "luxon": "^1.22.0",
+    "luxon": "^2.5.2",
     "quill-mention": "^2.2.4",
     "react": "16.9.0",
     "react-dom": "16.9.0",
